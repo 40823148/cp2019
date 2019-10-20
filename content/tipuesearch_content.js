@@ -1,1 +1,1 @@
-var tipuesearch = {"pages": [{'title': 'First', 'text': ' ', 'tags': '', 'url': 'First.html'}]};
+var tipuesearch = {"pages": [{'title': '主委來加碼', 'text': '\n \n', 'tags': '', 'url': '主委來加碼.html'}, {'title': '循環指令程式', 'text': "GIST \n https://gist.github.com/40823148/99b5fe1076f70cd59f006e46eb0343a2 \xa0 \n DART \n https://mde.tw/dartpad/?id=99b5fe1076f70cd59f006e46eb0343a2 \n \n 原始碼 \n void main() {\n  for (int i = 0; i < 5; i++) {\n    print('hello ${i + 1}');\n  }\n} \n \n \n", 'tags': '', 'url': '循環指令程式.html'}]};
